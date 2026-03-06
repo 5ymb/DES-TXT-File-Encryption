@@ -3,7 +3,7 @@
 <p>
   A lightweight, GUI-based Java application that encrypts and decrypts text files using the 
   <strong>Data Encryption Standard (DES)</strong> algorithm. This project demonstrates symmetric key generation, 
-  file handling, and clean user interface design using Java Swing.
+  file handling, and a clean user interface design using Java Swing.
 </p>
 
 <hr>
@@ -31,10 +31,10 @@
 
 <ol>
   <li><strong>Clone the repository:</strong><br>
-    <pre><code>git clone https://github.com/your-username/your-repo-name.git</code></pre>
+    <pre><code>git clone https://github.com/5ymb/DES-TXT-File-Encryption.git</code></pre>
   </li>
   <li><strong>Navigate to the directory:</strong><br>
-    <pre><code>cd your-repo-name</code></pre>
+    <pre><code>cd DES-TXT-File-Encryption</code></pre>
   </li>
   <li><strong>Compile the Java file:</strong><br>
     <pre><code>javac DES.java</code></pre>
@@ -50,7 +50,7 @@
 
 <h2>⚠️ Security Disclaimer</h2>
 <blockquote>
-  <p><strong>Note on DES:</strong> This project uses the Data Encryption Standard (DES) which utilizes a 56-bit key. 
+  <p><strong>Note on DES:</strong> This project uses the Data Encryption Standard (DES), which utilizes a 56-bit key. 
   DES is considered cryptographically outdated and vulnerable to modern brute-force attacks. 
   This code is intended for <strong>educational purposes only</strong>. For securing real-world sensitive data, 
   always use modern standards like <strong>AES-256</strong>.</p>
