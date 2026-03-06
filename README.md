@@ -1,3 +1,4 @@
+<div align="center">
 <h1>🛡️ Java DES File Encryptor</h1>
 
 <p>
@@ -7,7 +8,7 @@
 </p>
  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java">
  <img src="https://img.shields.io/badge/Security-Cryptography-blue?style=for-the-badge" alt="Cryptography">
-
+</div>
 <hr>
 
 <h2>✨ Features</h2>
